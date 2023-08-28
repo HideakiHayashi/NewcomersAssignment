@@ -1,7 +1,7 @@
-# 2022年度内田・備瀬・Iwana研新人課題
+# 早志研新人課題
 English follows Japanese.  
 研究を本格的に始める前の準備として行う，新人課題です．  
-2022年4月25日（月）を締め切りとします．
+~~2022年4月25日（月）を締め切りとします．~~
 
 ## 内容
 以下の5つのコースを準備しました．
@@ -23,7 +23,7 @@ English follows Japanese.
 参考テンプレートとしてtex_template.zipを置いています（別のテンプレートを使ってもらっても構いません）．  
 
 ## 提出先
-早志（hayashi@ait.kyushu-u.ac.jp）までメールで提出してください．
+早志（hayashi@ids.osaka-u.ac.jp）までメールで提出してください．
 
 ## 参考資料
 Google colaboratoryを用いて深層学習を使う際に参考になる資料をReferencesディレクトリに置いています（備瀬先生が作ってくださいました）．
@@ -42,9 +42,9 @@ Google colaboratoryを用いて深層学習を使う際に参考になる資料�
 * レポートや論文を見てもらう場合，添付ファイルのファイル名には名前と日付を書きましょう  
 　→ 卒論・修論時期になると教員は十数人×修正回数分の論文を抱えることになります．「修士論文.pdf」とだけ書かれたファイルが送られても管理できません．
 
-# 2022 Uchida-Bise-Iwana Lab Newcomers' assignment
+# Hayashi Lab Newcomers' assignment
 This github page is for a newcomers' assignment as a warming-up before starting your research.  
-The deadline is April 25, 2022.
+~~The deadline is April 25, 2022.~~
 
 ## Contents
 We have following five courses.  
@@ -65,7 +65,7 @@ If you want to edit locally, you can use [TeXstudio](https://www.texstudio.org/)
 We have uploaded tex_template.zip as a template (you can use another template if you like).  
 
 ## Where to submit
-Please submit your paper to Hayashi (hayashi@ait.kyushu-u.ac.jp) by e-mail.
+Please submit your paper to Hayashi (hayashi@ids.osaka-u.ac.jp) by e-mail.
 
 ## Reference materials for Google colab
 Reference materials for using deep learning in Google colaboratory are available in the References directory (created by Prof. Bise).
