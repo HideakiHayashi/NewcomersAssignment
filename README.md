@@ -1,7 +1,6 @@
-# 早志研新人課題
+# 新人課題
 English follows Japanese.  
 研究を本格的に始める前の準備として行う，新人課題です．  
-~~2022年4月25日（月）を締め切りとします．~~
 
 ## 内容
 以下の5つのコースを準備しました．
@@ -26,7 +25,7 @@ English follows Japanese.
 早志（hayashi@ids.osaka-u.ac.jp）までメールで提出してください．
 
 ## 参考資料
-Google colaboratoryを用いて深層学習を使う際に参考になる資料をReferencesディレクトリに置いています（備瀬先生が作ってくださいました）．
+Google colaboratoryを用いて深層学習を使う際に参考になる資料をReferencesディレクトリに置いています．
 
 ## メール送信時の注意
 皆さん既にご存知だとは思いますが，メール送信時の一般的な注意点を書いておきます．  
@@ -42,19 +41,18 @@ Google colaboratoryを用いて深層学習を使う際に参考になる資料�
 * レポートや論文を見てもらう場合，添付ファイルのファイル名には名前と日付を書きましょう  
 　→ 卒論・修論時期になると教員は十数人×修正回数分の論文を抱えることになります．「修士論文.pdf」とだけ書かれたファイルが送られても管理できません．
 
-# Hayashi Lab Newcomers' assignment
-This github page is for a newcomers' assignment as a warming-up before starting your research.  
-~~The deadline is April 25, 2022.~~
+# Newcomers' assignment
+This Github page is for newcomers' assignments as a warming-up before starting your research.  
 
 ## Contents
-We have following five courses.  
+We have the following five courses.  
 1. Basics of Image Processing
 2. Medical Image Classification
 3. Time Series Classification
 4. Text Image Analysis
 5. Conference Paper Survey  
 
-If you are not familiar with image processing or python programming, we recommend that you take 1. Basics of Image Processing. Otherwise, choose any of 2&ndash;5.
+If you are not familiar with image processing or Python programming, we recommend that you take 1. Basics of Image Processing. Otherwise, choose any of 2&ndash;5.
 
 ## About LaTeX
 The paper of this assignment should be written in LaTeX and submitted in pdf format.  
@@ -67,7 +65,7 @@ We have uploaded tex_template.zip as a template (you can use another template if
 ## Where to submit
 Please submit your paper to Hayashi (hayashi@ids.osaka-u.ac.jp) by e-mail.
 
-## Reference materials for Google colab
+## Reference materials for Google Colab
 Reference materials for using deep learning in Google colaboratory are available in the References directory (created by Prof. Bise).
 
 ## Email Etiquette
