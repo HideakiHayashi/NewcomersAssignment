@@ -66,7 +66,7 @@ We have uploaded tex_template.zip as a template (you can use another template if
 Please submit your paper to Hayashi (hayashi@ids.osaka-u.ac.jp) by e-mail.
 
 ## Reference materials for Google Colab
-Reference materials for using deep learning in Google colaboratory are available in the References directory (created by Prof. Bise).
+Reference materials for using deep learning in Google colaboratory are available in the References directory (created by Prof. Bise in Kyushu University).
 
 ## Email Etiquette
 Here are some general points to keep in mind when sending emails.  
